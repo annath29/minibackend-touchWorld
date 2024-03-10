@@ -1,0 +1,51 @@
+{
+  "user": [
+    {
+      "id": "13e45i",
+      "name": "Carlos Estrada",
+      "phone": "7820512334",
+      "password": "12345678",
+      "image": "https://assets.bridgestonetire.com/content/dam/consumer/bst/la/co/tips/2022/tecnologia-de-llantas/deportivo.jpg",
+      "flag":false,
+      "info": "Elegant and unique"
+    },
+    {
+      "id": "a2f9b36",
+      "name": "Pepe Londoño",
+      "phone": "3287654397",
+      "password": "1234567",
+      "image": "https://www.carroya.com/noticias/sites/default/files/carros_comprar_bogota_carroya.webp",
+      "flag":false,
+      "info": "Pepe"
+    }
+  ],
+  "mensaje": [
+    {
+      "sendUser":"a2f9b36",
+      "recipientUser": "13e45i",
+      "conversations":[
+        {
+          "sendBy":"a2f9b36",
+          "date":"2024-03-09",
+          "hour":"03:30:00",
+          "message":"hello",
+          "flag":true
+        },
+        {
+          "sendBy":"13e45i",
+          "date":"2024-03-09",
+          "hour":"03:30:00",
+          "message":"Hi,How are you?",
+          "flag":true
+        },
+        {
+          "sendBy":"a2f9b36",
+          "date":"2024-03-09",
+          "hour":"03:30:00",
+          "message":"fine",
+          "flag":false
+        }
+    ]
+    }
+  ]
+}
