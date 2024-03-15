@@ -1,12 +1,12 @@
 {
-  "user": [
+  "users": [
     {
       "id": "13e45i",
       "name": "Carlos Estrada",
       "phone": "7820512334",
       "password": "12345678",
       "image": "https://assets.bridgestonetire.com/content/dam/consumer/bst/la/co/tips/2022/tecnologia-de-llantas/deportivo.jpg",
-      "online":false,
+      "online": false,
       "info": "Elegant and unique"
     },
     {
@@ -15,7 +15,7 @@
       "phone": "3287654397",
       "password": "1234567mP",
       "image": "https://www.carroya.com/noticias/sites/default/files/carros_comprar_bogota_carroya.webp",
-      "online":false,
+      "online": false,
       "info": "Pepe"
     },
     {
@@ -24,37 +24,83 @@
       "phone": "7659871020",
       "password": "123456Rm",
       "image": "https://i.pinimg.com/originals/87/86/9c/87869c850c4acdf3da76d5aa061c83e8.jpg",
-      "online":false,
+      "online": false,
       "info": "Wonderful day"
+    },
+    {
+      "id": "3037",
+      "name": "Andre",
+      "image": "https://images.pexels.com/photos/87452/flowers-background-butterflies-beautiful-87452.jpeg?cs=srgb&dl=pexels-pixabay-87452.jpg&fm=jpg",
+      "phone": "3251239872",
+      "password": "register12345",
+      "info": "AG",
+      "online": false
+    },
+    {
+      "id": "6523",
+      "name": "Nathalia",
+      "image": "https://mujeres360.org/wp-content/uploads/2022/08/soft-skills-de-un-programadora.jpg",
+      "phone": "3234336677",
+      "password": "nathRegister",
+      "info": "Nat❤️",
+      "online": false
+    },
+    {
+      "id": "4287",
+      "name": "David Rodriguez",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fbestarion.com%2F6-productivity-tips-every-developer-should-know%2F&psig=AOvVaw1wYOlRgOo2zajASUHDUdjB&ust=1710555657844000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNCS3caa9YQDFQAAAAAdAAAAABAK",
+      "phone": "3267981432",
+      "password": "registrodavid",
+      "info": "Life",
+      "online": false
+    },
+    {
+      "id": "2c57",
+      "name": "Raul Espitia",
+      "image": "https://www.next.us/nxtcms/resource/blob/5791594/0b81a7d7db30a12f5494cbc97b53c573/knitwear-data.jpg",
+      "phone": "3114532894",
+      "password": "raul94Registro",
+      "info": "Engineer",
+      "online": false
+    },
+    {
+      "id": "c48c",
+      "name": "Pato",
+      "image": "https://i.ytimg.com/vi/rYsUdksKeyo/maxresdefault.jpg",
+      "phone": "31145876894",
+      "password": ",lkajxdisjnds",
+      "info": "pato🦆",
+      "online": false
     }
   ],
-  "mensaje": [
+  "messages": [
     {
-      "sendUser":"a2f9b36",
+      "sendUser": "a2f9b36",
       "recipientUser": "13e45i",
-      "conversations":[
+      "conversations": [
         {
-          "sendBy":"a2f9b36",
-          "date":"2024-03-09",
-          "hour":"03:30:00",
-          "message":"hello",
-          "flag":true
+          "sendBy": "a2f9b36",
+          "date": "2024-03-09",
+          "hour": "03:30:00",
+          "message": "hello",
+          "flag": true
         },
         {
-          "sendBy":"13e45i",
-          "date":"2024-03-09",
-          "hour":"03:30:00",
-          "message":"Hi,How are you?",
-          "flag":true
+          "sendBy": "13e45i",
+          "date": "2024-03-09",
+          "hour": "03:30:00",
+          "message": "Hi,How are you?",
+          "flag": true
         },
         {
-          "sendBy":"a2f9b36",
-          "date":"2024-03-09",
-          "hour":"03:30:00",
-          "message":"fine",
-          "flag":false
+          "sendBy": "a2f9b36",
+          "date": "2024-03-09",
+          "hour": "03:30:00",
+          "message": "fine",
+          "flag": false
         }
-    ]
+      ],
+      "id": "5726"
     }
   ]
 }
